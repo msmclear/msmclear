@@ -1,6 +1,6 @@
 <h1 align="center"> Why, hello there. Welcome to my corner of the 'hub ☺️ </h1>
 
-My name is Monique McLeary and I an applied research and data scientist who dabbles in the arts (painting 👩🏿‍🎨, writing 📝, photography 📸) and I also make my own skincare products💅🏿. Whenever I can, I spend most of my time outdoors, and I am sucker for a good snack (especially those of the Jamaican/Caribbean variety 🇯🇲).  
+My name is Monique McLeary and I am an applied researcher and data scientist who dabbles in the arts (painting 👩🏿‍🎨, writing 📝, photography 📸) and I also make my own skincare products💅🏿. Whenever I can, I spend most of my time outdoors, and I am sucker for a good snack (especially those of the Jamaican/Caribbean variety 🇯🇲).  
 
 - I am currently working on: updating my Github profile 😊
 - How to reach me: **moniquesmcleary@gmail.com**
